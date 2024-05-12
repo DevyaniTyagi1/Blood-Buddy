@@ -1,4 +1,7 @@
 # Blood Buddy
+
+**Project Link:** https://devyanityagi1.github.io/Blood-Buddy/
+
 **Blood Buddy** is a website that offers blood donation services to anyone in need. The website works :
 
 1. Register on the website.
